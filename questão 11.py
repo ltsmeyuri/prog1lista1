@@ -1,0 +1,6 @@
+a = int(input('Insira um número inteiro: '))
+b = int(input('Insira outro número inteiro: '))
+c = int(input('Insira um número real: '))
+print('O produto do dobro do primeiro com metade do segundo é: {}'.format((2*a)*(b/2)))
+print('A soma do triplo do primeiro com o terceiro é: {}'.format((3*a)+c))
+print('O terceiro elevado ao cubo é: {}'.format(c**3))
